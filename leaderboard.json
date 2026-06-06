@@ -1,5 +1,10 @@
 [
   {
+    "name": "ADMIN",
+    "distance": 1908,
+    "ts": 1780736069268
+  },
+  {
     "name": "ANONYME",
     "distance": 1439,
     "ts": 1780735671200
