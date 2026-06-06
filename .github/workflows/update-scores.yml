@@ -1,0 +1,28 @@
+name: Update leaderboard
+
+on:
+  repository_dispatch:
+    types: [new_score]
+
+jobs:
+  update:
+    runs-on: ubuntu-latest
+    permissions:
+      contents: write
+
+    steps:
+      - uses: actions/checkout@v4
+
+      - name: Update JSON
+        run: |
+          node update-leaderboard.js \
+            "${{ github.event.client_payload.name }}" \
+            "${{ github.event.client_payload.distance }}"
+
+      - name: Commit & push
+        run: |
+          git config user.email "action@github.com"
+          git config user.name "GitHub Action"
+          git add leaderboard.json
+          git diff --staged --quiet || git commit -m "score: ${{ github.event.client_payload.name }}"
+          git push
