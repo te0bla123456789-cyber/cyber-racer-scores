@@ -1,6 +1,11 @@
 [
   {
     "name": "PC TEST 1",
+    "distance": 30285,
+    "ts": 1781176392807
+  },
+  {
+    "name": "PC TEST 1",
     "distance": 17494,
     "ts": 1781174881494
   },
