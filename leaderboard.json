@@ -1,6 +1,11 @@
 [
   {
     "name": "2TEST-XIAOMI",
+    "distance": 283,
+    "ts": 1781318473911
+  },
+  {
+    "name": "2TEST-XIAOMI",
     "distance": 107,
     "ts": 1781318466520
   }
