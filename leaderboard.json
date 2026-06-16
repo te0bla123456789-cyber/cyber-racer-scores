@@ -180,6 +180,11 @@
     "ts": 1781345766397
   },
   {
+    "name": "HUGUETTE",
+    "distance": 1128,
+    "ts": 1781633003732
+  },
+  {
     "name": "IMRANE",
     "distance": 1090,
     "ts": 1781603356332
@@ -493,10 +498,5 @@
     "name": "BASILE",
     "distance": 106,
     "ts": 1781345464947
-  },
-  {
-    "name": "ANONYME",
-    "distance": 106,
-    "ts": 1781361275580
   }
 ]
