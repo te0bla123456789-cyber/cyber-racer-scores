@@ -315,6 +315,11 @@
     "ts": 1781729462808
   },
   {
+    "name": "ANONYME",
+    "distance": 2069,
+    "ts": 1781729926667
+  },
+  {
     "name": "K0HLDAMPF",
     "distance": 2066,
     "ts": 1781681364241
@@ -493,10 +498,5 @@
     "name": "ANONYME",
     "distance": 1475,
     "ts": 1781717507869
-  },
-  {
-    "name": "ANONYME",
-    "distance": 1474,
-    "ts": 1781717739084
   }
 ]
