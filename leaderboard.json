@@ -11,6 +11,11 @@
   },
   {
     "name": "@HECKER",
+    "distance": 8093,
+    "ts": 1781725220566
+  },
+  {
+    "name": "@HECKER",
     "distance": 7557,
     "ts": 1781724755689
   },
@@ -493,10 +498,5 @@
     "name": "ANONYME",
     "distance": 1197,
     "ts": 1781717093482
-  },
-  {
-    "name": "TÉO",
-    "distance": 1194,
-    "ts": 1781387367430
   }
 ]
