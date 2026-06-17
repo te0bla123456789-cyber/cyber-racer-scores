@@ -410,6 +410,11 @@
     "ts": 1781388713819
   },
   {
+    "name": "ANONYME",
+    "distance": 1682,
+    "ts": 1781729017733
+  },
+  {
     "name": "M2TESTXIAOMI",
     "distance": 1668,
     "ts": 1781472705962
@@ -493,10 +498,5 @@
     "name": "2TEST-XIAOMI",
     "distance": 1202,
     "ts": 1781318542228
-  },
-  {
-    "name": "PIPEAU15",
-    "distance": 1201,
-    "ts": 1781721298658
   }
 ]
