@@ -370,6 +370,11 @@
     "ts": 1781346230218
   },
   {
+    "name": "KOHLDAMPF",
+    "distance": 776,
+    "ts": 1781694135524
+  },
+  {
     "name": "TÉO",
     "distance": 774,
     "ts": 1781365084359
@@ -493,10 +498,5 @@
     "name": "K0HLDAMPF",
     "distance": 457,
     "ts": 1781681551078
-  },
-  {
-    "name": "K0HLDAMPF",
-    "distance": 457,
-    "ts": 1781681730343
   }
 ]
