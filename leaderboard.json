@@ -280,6 +280,11 @@
     "ts": 1781633003732
   },
   {
+    "name": "K0HLDAMPF",
+    "distance": 1095,
+    "ts": 1781682666483
+  },
+  {
     "name": "IMRANE",
     "distance": 1090,
     "ts": 1781603356332
@@ -493,10 +498,5 @@
     "name": "K0HLDAMPF",
     "distance": 390,
     "ts": 1781681237432
-  },
-  {
-    "name": "BASILE",
-    "distance": 387,
-    "ts": 1781345361721
   }
 ]
