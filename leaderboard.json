@@ -380,6 +380,11 @@
     "ts": 1781681465665
   },
   {
+    "name": "K0HLDAMPF",
+    "distance": 528,
+    "ts": 1781682022494
+  },
+  {
     "name": "ELIQS",
     "distance": 526,
     "ts": 1781387166697
@@ -493,10 +498,5 @@
     "name": "M2TESTXIAOMI",
     "distance": 291,
     "ts": 1781460591761
-  },
-  {
-    "name": "ANONYME",
-    "distance": 287,
-    "ts": 1781671800519
   }
 ]
