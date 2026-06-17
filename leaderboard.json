@@ -400,6 +400,11 @@
     "ts": 1781468896712
   },
   {
+    "name": "ANONYME",
+    "distance": 249,
+    "ts": 1781671541467
+  },
+  {
     "name": "2TEST-XIAOMI",
     "distance": 247,
     "ts": 1781318502774
@@ -493,10 +498,5 @@
     "name": "TÉO",
     "distance": 107,
     "ts": 1781389035183
-  },
-  {
-    "name": "ELIQS",
-    "distance": 107,
-    "ts": 1781389115737
   }
 ]
