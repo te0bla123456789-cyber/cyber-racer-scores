@@ -355,6 +355,11 @@
     "ts": 1781389608081
   },
   {
+    "name": "ANONYME",
+    "distance": 1895,
+    "ts": 1781729725176
+  },
+  {
     "name": "K0HLDAMPF",
     "distance": 1858,
     "ts": 1781682622364
@@ -493,10 +498,5 @@
     "name": "TÉO (DEV)",
     "distance": 1472,
     "ts": 1781696934809
-  },
-  {
-    "name": "BOUZELOUF",
-    "distance": 1439,
-    "ts": 1781697554635
   }
 ]
