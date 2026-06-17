@@ -345,6 +345,11 @@
     "ts": 1781681772607
   },
   {
+    "name": "ANONYME",
+    "distance": 1819,
+    "ts": 1781729076239
+  },
+  {
     "name": "K0HLDAMPF",
     "distance": 1814,
     "ts": 1781682171818
@@ -493,10 +498,5 @@
     "name": "TÉO",
     "distance": 1266,
     "ts": 1781425628642
-  },
-  {
-    "name": "2TEST-XIAOMI",
-    "distance": 1202,
-    "ts": 1781318542228
   }
 ]
