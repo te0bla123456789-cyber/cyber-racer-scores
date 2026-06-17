@@ -40,6 +40,11 @@
     "ts": 1781389058427
   },
   {
+    "name": "@HECKER",
+    "distance": 4777,
+    "ts": 1781724148904
+  },
+  {
     "name": "PIPEAU15",
     "distance": 4521,
     "ts": 1781721476227
@@ -493,10 +498,5 @@
     "name": "HUGUETTE",
     "distance": 1128,
     "ts": 1781633003732
-  },
-  {
-    "name": "K0HLDAMPF",
-    "distance": 1095,
-    "ts": 1781682666483
   }
 ]
