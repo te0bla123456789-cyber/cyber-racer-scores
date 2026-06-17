@@ -390,6 +390,11 @@
     "ts": 1781365031723
   },
   {
+    "name": "K0HLDAMPF",
+    "distance": 457,
+    "ts": 1781681551078
+  },
+  {
     "name": "ANONYME",
     "distance": 456,
     "ts": 1781346715223
@@ -493,10 +498,5 @@
     "name": "TÉO",
     "distance": 247,
     "ts": 1781389017433
-  },
-  {
-    "name": "ANONYME",
-    "distance": 246,
-    "ts": 1781671575404
   }
 ]
