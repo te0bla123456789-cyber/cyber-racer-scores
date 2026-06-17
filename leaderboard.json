@@ -45,6 +45,11 @@
     "ts": 1781681919867
   },
   {
+    "name": "PIPEAU15",
+    "distance": 3647,
+    "ts": 1781706732287
+  },
+  {
     "name": "ELIAS",
     "distance": 3546,
     "ts": 1781436374916
@@ -493,10 +498,5 @@
     "name": "BOUZELOUF",
     "distance": 666,
     "ts": 1781697281568
-  },
-  {
-    "name": "M2TESTXIAOMI",
-    "distance": 646,
-    "ts": 1781547304860
   }
 ]
