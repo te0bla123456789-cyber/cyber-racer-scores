@@ -435,6 +435,11 @@
     "ts": 1781472616046
   },
   {
+    "name": "KOHLDAMPF",
+    "distance": 566,
+    "ts": 1781694019729
+  },
+  {
     "name": "K0HLDAMPF",
     "distance": 565,
     "ts": 1781681465665
@@ -493,10 +498,5 @@
     "name": "ELIQS",
     "distance": 456,
     "ts": 1781387202550
-  },
-  {
-    "name": "TÉO - PC",
-    "distance": 428,
-    "ts": 1781564576552
   }
 ]
