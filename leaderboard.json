@@ -275,6 +275,11 @@
     "ts": 1781436458765
   },
   {
+    "name": "ANONYME",
+    "distance": 1752,
+    "ts": 1781718153391
+  },
+  {
     "name": "M2TESTXIAOMI",
     "distance": 1740,
     "ts": 1781460761475
@@ -493,10 +498,5 @@
     "name": "TÉO",
     "distance": 945,
     "ts": 1781345958312
-  },
-  {
-    "name": "ANONYME",
-    "distance": 945,
-    "ts": 1781671614070
   }
 ]
