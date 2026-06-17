@@ -411,6 +411,11 @@
   },
   {
     "name": "BOUZELOUF",
+    "distance": 837,
+    "ts": 1781698226548
+  },
+  {
+    "name": "BOUZELOUF",
     "distance": 805,
     "ts": 1781697473141
   },
@@ -493,10 +498,5 @@
     "name": "TÉO",
     "distance": 596,
     "ts": 1781425470852
-  },
-  {
-    "name": "M2TESTXIAOMI",
-    "distance": 573,
-    "ts": 1781472616046
   }
 ]
