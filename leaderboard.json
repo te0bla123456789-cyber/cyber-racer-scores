@@ -81,6 +81,11 @@
   },
   {
     "name": "K0HLDAMPF",
+    "distance": 2851,
+    "ts": 1781682744540
+  },
+  {
+    "name": "K0HLDAMPF",
     "distance": 2725,
     "ts": 1781681632193
   },
@@ -493,10 +498,5 @@
     "name": "TÉO - PC",
     "distance": 393,
     "ts": 1781642849348
-  },
-  {
-    "name": "K0HLDAMPF",
-    "distance": 390,
-    "ts": 1781681237432
   }
 ]
