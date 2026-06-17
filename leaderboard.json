@@ -145,6 +145,11 @@
     "ts": 1781389076774
   },
   {
+    "name": "K0HLDAMPF",
+    "distance": 1716,
+    "ts": 1781681833601
+  },
+  {
     "name": "IMRANE",
     "distance": 1685,
     "ts": 1781603438160
@@ -493,10 +498,5 @@
     "name": "2TEST-XIAOMI",
     "distance": 283,
     "ts": 1781318473911
-  },
-  {
-    "name": "M2TESTXIAOMI",
-    "distance": 255,
-    "ts": 1781468896712
   }
 ]
