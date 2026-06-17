@@ -165,6 +165,11 @@
     "ts": 1781556805647
   },
   {
+    "name": "ANONYME",
+    "distance": 2317,
+    "ts": 1781717921125
+  },
+  {
     "name": "ELIQS",
     "distance": 2274,
     "ts": 1781389584498
@@ -493,10 +498,5 @@
     "name": "ANONYME",
     "distance": 913,
     "ts": 1781671673577
-  },
-  {
-    "name": "PIPEAU15",
-    "distance": 881,
-    "ts": 1781707155416
   }
 ]
