@@ -400,6 +400,11 @@
     "ts": 1781671614070
   },
   {
+    "name": "PIPEAU15",
+    "distance": 945,
+    "ts": 1781706588104
+  },
+  {
     "name": "ANONYME",
     "distance": 913,
     "ts": 1781341990543
@@ -493,10 +498,5 @@
     "name": "M2TESTXIAOMI",
     "distance": 646,
     "ts": 1781547304860
-  },
-  {
-    "name": "KOHLDAMPF",
-    "distance": 633,
-    "ts": 1781693992745
   }
 ]
