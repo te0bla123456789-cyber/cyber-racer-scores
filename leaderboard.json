@@ -256,6 +256,11 @@
   },
   {
     "name": "ANONYME",
+    "distance": 2383,
+    "ts": 1781729668199
+  },
+  {
+    "name": "ANONYME",
     "distance": 2345,
     "ts": 1781729398501
   },
@@ -493,10 +498,5 @@
     "name": "BOUZELOUF",
     "distance": 1439,
     "ts": 1781697554635
-  },
-  {
-    "name": "ELIQS",
-    "distance": 1432,
-    "ts": 1781389477461
   }
 ]
