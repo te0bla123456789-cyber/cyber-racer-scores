@@ -265,6 +265,11 @@
     "ts": 1781472705962
   },
   {
+    "name": "PIPEAU15",
+    "distance": 1648,
+    "ts": 1781716627942
+  },
+  {
     "name": "K0HLDAMP",
     "distance": 1510,
     "ts": 1781681176562
@@ -493,10 +498,5 @@
     "name": "PIPEAU15",
     "distance": 770,
     "ts": 1781713210437
-  },
-  {
-    "name": "BOUZELOUF",
-    "distance": 769,
-    "ts": 1781698064982
   }
 ]
