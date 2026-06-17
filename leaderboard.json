@@ -361,6 +361,11 @@
   },
   {
     "name": "ANONYME",
+    "distance": 1783,
+    "ts": 1781728959672
+  },
+  {
+    "name": "ANONYME",
     "distance": 1752,
     "ts": 1781718153391
   },
@@ -493,10 +498,5 @@
     "name": "PIPEAU15",
     "distance": 1201,
     "ts": 1781721298658
-  },
-  {
-    "name": "HUGUETTE",
-    "distance": 1198,
-    "ts": 1781629783511
   }
 ]
