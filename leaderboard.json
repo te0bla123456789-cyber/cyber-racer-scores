@@ -320,6 +320,11 @@
     "ts": 1781346193847
   },
   {
+    "name": "BOUZELOUF",
+    "distance": 1018,
+    "ts": 1781697397624
+  },
+  {
     "name": "IMRANE",
     "distance": 982,
     "ts": 1781603264775
@@ -493,10 +498,5 @@
     "name": "BOUZELOUF",
     "distance": 495,
     "ts": 1781697248540
-  },
-  {
-    "name": "TÉO",
-    "distance": 493,
-    "ts": 1781390418958
   }
 ]
