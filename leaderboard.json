@@ -300,6 +300,11 @@
     "ts": 1781365008543
   },
   {
+    "name": "ANONYME",
+    "distance": 1475,
+    "ts": 1781717507869
+  },
+  {
     "name": "TÉO (DEV)",
     "distance": 1472,
     "ts": 1781696934809
@@ -493,10 +498,5 @@
     "name": "BOUZELOUF",
     "distance": 837,
     "ts": 1781698226548
-  },
-  {
-    "name": "PIPEAU15",
-    "distance": 810,
-    "ts": 1781716703775
   }
 ]
