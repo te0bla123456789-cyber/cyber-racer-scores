@@ -375,6 +375,11 @@
     "ts": 1781346230218
   },
   {
+    "name": "BOUZELOUF",
+    "distance": 839,
+    "ts": 1781697172944
+  },
+  {
     "name": "KOHLDAMPF",
     "distance": 776,
     "ts": 1781694135524
@@ -493,10 +498,5 @@
     "name": "K0HLDAMPF",
     "distance": 491,
     "ts": 1781681286411
-  },
-  {
-    "name": "TÉO",
-    "distance": 459,
-    "ts": 1781365031723
   }
 ]
