@@ -166,6 +166,11 @@
   },
   {
     "name": "ANONYME",
+    "distance": 3292,
+    "ts": 1781728919080
+  },
+  {
+    "name": "ANONYME",
     "distance": 3166,
     "ts": 1781672109999
   },
@@ -493,10 +498,5 @@
     "name": "HUGUETTE",
     "distance": 1198,
     "ts": 1781629783511
-  },
-  {
-    "name": "ANONYME",
-    "distance": 1197,
-    "ts": 1781717093482
   }
 ]
