@@ -10,6 +10,11 @@
     "ts": 1781623324972
   },
   {
+    "name": "@HECKER",
+    "distance": 6495,
+    "ts": 1781724018855
+  },
+  {
     "name": "BOUZELOUF",
     "distance": 6264,
     "ts": 1781698408943
@@ -493,10 +498,5 @@
     "name": "K0HLDAMPF",
     "distance": 1095,
     "ts": 1781682666483
-  },
-  {
-    "name": "ANONYME",
-    "distance": 1091,
-    "ts": 1781717138977
   }
 ]
