@@ -261,6 +261,11 @@
   },
   {
     "name": "ANONYME",
+    "distance": 2381,
+    "ts": 1781729879503
+  },
+  {
+    "name": "ANONYME",
     "distance": 2345,
     "ts": 1781729398501
   },
@@ -493,10 +498,5 @@
     "name": "ANONYME",
     "distance": 1474,
     "ts": 1781717739084
-  },
-  {
-    "name": "TÉO (DEV)",
-    "distance": 1472,
-    "ts": 1781696934809
   }
 ]
