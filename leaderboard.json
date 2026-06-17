@@ -256,6 +256,11 @@
   },
   {
     "name": "ANONYME",
+    "distance": 2345,
+    "ts": 1781729398501
+  },
+  {
+    "name": "ANONYME",
     "distance": 2317,
     "ts": 1781717921125
   },
@@ -493,10 +498,5 @@
     "name": "ANONYME",
     "distance": 1409,
     "ts": 1781671722982
-  },
-  {
-    "name": "ANONYME",
-    "distance": 1334,
-    "ts": 1781718289010
   }
 ]
