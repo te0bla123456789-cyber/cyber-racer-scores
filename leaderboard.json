@@ -221,6 +221,11 @@
   },
   {
     "name": "K0HLDAMPF",
+    "distance": 4021,
+    "ts": 1781816746432
+  },
+  {
+    "name": "K0HLDAMPF",
     "distance": 3909,
     "ts": 1781816423866
   },
@@ -493,10 +498,5 @@
     "name": "K0HLDAMPF",
     "distance": 2231,
     "ts": 1781816641944
-  },
-  {
-    "name": "ANONYME",
-    "distance": 2213,
-    "ts": 1781342072715
   }
 ]
