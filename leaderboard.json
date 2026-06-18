@@ -330,6 +330,11 @@
     "ts": 1781717651471
   },
   {
+    "name": "TYRAQUA",
+    "distance": 2614,
+    "ts": 1781781026357
+  },
+  {
     "name": "KOHLDAMPF",
     "distance": 2586,
     "ts": 1781693867454
@@ -493,10 +498,5 @@
     "name": "K0HLDAMPF",
     "distance": 1937,
     "ts": 1781767266594
-  },
-  {
-    "name": "K0HLDAMPF",
-    "distance": 1936,
-    "ts": 1781767012015
   }
 ]
