@@ -256,6 +256,11 @@
   },
   {
     "name": "K0HLDAMPF",
+    "distance": 3694,
+    "ts": 1781816854892
+  },
+  {
+    "name": "K0HLDAMPF",
     "distance": 3666,
     "ts": 1781816318365
   },
@@ -493,10 +498,5 @@
     "name": "PIPEAU15",
     "distance": 2244,
     "ts": 1781706517986
-  },
-  {
-    "name": "K0HLDAMPF",
-    "distance": 2231,
-    "ts": 1781816641944
   }
 ]
