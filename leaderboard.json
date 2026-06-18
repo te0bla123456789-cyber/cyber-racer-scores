@@ -70,6 +70,11 @@
     "ts": 1781717794680
   },
   {
+    "name": "TYRAQUA",
+    "distance": 5732,
+    "ts": 1781780914955
+  },
+  {
     "name": "ELIAS",
     "distance": 5411,
     "ts": 1781389372166
@@ -493,10 +498,5 @@
     "name": "K0HLDAMPF",
     "distance": 1936,
     "ts": 1781767012015
-  },
-  {
-    "name": "ELIAS",
-    "distance": 1927,
-    "ts": 1781389700630
   }
 ]
