@@ -205,6 +205,11 @@
     "ts": 1781729285717
   },
   {
+    "name": "TYRAQUA",
+    "distance": 3460,
+    "ts": 1781780715426
+  },
+  {
     "name": "NKT",
     "distance": 3376,
     "ts": 1781779636574
@@ -493,10 +498,5 @@
     "name": "ANONYME",
     "distance": 1895,
     "ts": 1781729725176
-  },
-  {
-    "name": "K0HLDAMPF",
-    "distance": 1858,
-    "ts": 1781682622364
   }
 ]
