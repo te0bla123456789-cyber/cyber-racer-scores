@@ -401,6 +401,11 @@
   },
   {
     "name": "K0HLDAMPF",
+    "distance": 1937,
+    "ts": 1781767266594
+  },
+  {
+    "name": "K0HLDAMPF",
     "distance": 1936,
     "ts": 1781767012015
   },
@@ -493,10 +498,5 @@
     "name": "ANONYME",
     "distance": 1689,
     "ts": 1781718233082
-  },
-  {
-    "name": "IMRANE",
-    "distance": 1685,
-    "ts": 1781603438160
   }
 ]
