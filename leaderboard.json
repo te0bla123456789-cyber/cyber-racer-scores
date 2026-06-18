@@ -75,6 +75,11 @@
     "ts": 1781721476227
   },
   {
+    "name": "K0HLDAMPF",
+    "distance": 4494,
+    "ts": 1781766792564
+  },
+  {
     "name": "ELIAS",
     "distance": 4432,
     "ts": 1781389234200
@@ -493,10 +498,5 @@
     "name": "PIPEAU15",
     "distance": 1648,
     "ts": 1781716627942
-  },
-  {
-    "name": "ANONYME",
-    "distance": 1645,
-    "ts": 1781729216765
   }
 ]
