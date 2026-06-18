@@ -20,6 +20,11 @@
     "ts": 1781725220566
   },
   {
+    "name": "@BELUGA",
+    "distance": 7938,
+    "ts": 1781806324922
+  },
+  {
     "name": "NKT",
     "distance": 7812,
     "ts": 1781779975597
@@ -493,10 +498,5 @@
     "name": "K0HLDAMPF",
     "distance": 2066,
     "ts": 1781681364241
-  },
-  {
-    "name": "K0HLDAMPF",
-    "distance": 2059,
-    "ts": 1781767160000
   }
 ]
